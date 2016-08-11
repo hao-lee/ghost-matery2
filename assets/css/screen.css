@@ -111,10 +111,10 @@ mark {
     margin-bottom: 0px;
 }
 .bf-color {
-    background-color: #3f51b5 !important;
+    background-color: #99cc33 !important;
 }
 .bf-text-color {
-    color: #3f51b5 !important;
+    color: #99cc33 !important;
 }
 .bf-text-gray {
     color: #777 !important;
@@ -392,11 +392,13 @@ article .article-tags .chip {
 footer {
     padding-bottom: 1px;
 }
+/*页面底部链接文字的颜色*/
 footer a {
-    color: #fff;
+    color: #ffffff;
 }
+/*页面底部除链接文字外其他文字的颜色*/
 footer .copy-right {
-    color: #bbb;
+    color: #2200dd;
 }
 
 /*搜索层样式*/
